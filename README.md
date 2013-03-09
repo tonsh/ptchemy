@@ -12,7 +12,7 @@ Requirement
 
 Structure
 
-    you_project/         项目
+    you_project/
         __init__.py
         app.py
         settings.py
@@ -26,7 +26,7 @@ Structure
 
 At first you should run application server in a terminal:
 
-    cd billfow
+    cd your_project
     cp settings._py settings.py # setting your config with @YOU
     python3 app.py
 
